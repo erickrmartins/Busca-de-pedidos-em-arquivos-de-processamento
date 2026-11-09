@@ -128,12 +128,12 @@ Para desenvolver a solução, considere as seguintes orientações:
 ## 6. Diferenciais
 Embora não sejam obrigatórios, os seguintes recursos poderão ser considerados diferenciais:
 
-- [ ] Permitir pesquisar diferentes nomes sem alterar o código-fonte.
+- [x] Permitir pesquisar diferentes nomes sem alterar o código-fonte.
 - [ ] Permitir adicionar novos arquivos à pesquisa.
-- [ ] Organizar a solução utilizando orientação a objetos.
-- [ ] Implementar testes automatizados.
+- [x] Organizar a solução utilizando orientação a objetos.
+- [x] Implementar testes automatizados.
 - [ ] Utilizar mecanismos de concorrência para executar as buscas.
-- [ ] Apresentar o tempo individual de processamento de cada arquivo.
+- [x] Apresentar o tempo individual de processamento de cada arquivo.
 
 ---
 
